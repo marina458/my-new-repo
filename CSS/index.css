@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #42a5f5;
+    border-bottom: 3px solid #e53935;
+}
+.logo_text {
+    padding: 5px 10px;
+    margin-left: 30px;
+    text-align: center;
+    
+
+}
+.logo_text h3 {
+    text-indent: 35px;
+    color: #ffffff;
+}
+
+.logo_text a {
+    text-indent: 35px;
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+
+.auth {
+
+}
+.auth a {
+    color: black;
+    padding: 10px;
+    line-height: 70px;
+    font-size: 20px;
+}
+
+.section_book {
+    display: flex;
+    width: 100%;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: tomato;
+    border-bottom: 1px solid #bdbdbd;
+}
+.section_book_text {
+    margin: 0 20px;
+}
+.section_book_text p {
+    text-indent: 25px;
+    text-align: justify;
+}
+.footer{
+    
+}
+.down{
+    text-align: center;
+    background-color: slategrey;
+    color: #ffffff;
+    width: 100%;
+    /* margin: 330px 0px; */
+}
+
+.vxid{
+    width: 500px;
+    height: 550px;
+    border: 2px solid black ;
+    margin: 150px 600px;
+    text-align: left;
+    justify-content: center;
+}
+
+.vxid_do {
+    background-color: #42a5f5;
+    font-size: 20px;
+    height: 50px;
+
+}
+
+
+.vxid input{
+    text-align: center;
+}
+.Detal{
+    width: 100%;
+    height: 1000px;
+    border: 3px solid black ;
+    text-align: center;
+    justify-content: center;
+    
+
+}
+.Selectionbook{
+    display: flex;
+    width: 100%;
+    line-height: 100px;
+   
+    border-bottom: 1px solid blue;
+}
+.avtor{
+    display: block;
+    font-size: 10px;
+    line-height: 25px;
+    margin: 15px 15px;
+    width: 100%;
+
+}
+.avtor1{
+    text-align: left;
+}
+.pos{
+    color: rgb(36, 106, 38);
+    padding: 10px;
+    line-height: 10px;
+    font-size: 10px;
+    display:inline;
+    width: 50%;
+    text-align: right;
+    margin-right: 100px;
+}   
+.pos1 a{
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 20px;
+}
+.pos1{
+    text-align: right;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.post3 i{
+    color: rgb(5, 7, 1);
+    text-decoration: none;
+    font-size: 15px;
+    display:flow-root;
+}
+.Roman{
+text-align: left;
+}
